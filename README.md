@@ -1,7 +1,10 @@
 ## Olá! Bão? Eu sou o Matheus Mori 😄
 
-- 🔭 Estou trabalhando na Rocketseat.
-- 🌱 Estou estudando: Machine learning, estatística e NLP.
+Atualmente sou faxineiro de dados na Rocketseat e estudante de estatística na Universidade Federal de São Carlos (UFSCar). 
+
+E foco meus esforços com analises de mercado, implementações de automações e modelos de Machine learning com Python e MongoDB.  
+
+Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesses para aumentar a captação de leads da área de marketing. 
 
 <div>
   <a href="https://github.com/mori-mkm">
@@ -23,8 +26,10 @@
 </div>
   
   ##
- 
+
+### Entre em contato:
 <div> 
+
 </a> 
   <a href = "mailto:matheus.mori@rocketseat.team"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
