@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://github.com/mori-mkm/mori-mkm/blob/main/wave.gif" width="30px">! Bão? Eu sou o  Matheus Mori</h1>
-<h3 align="center">I work at <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
+<h3 align="center">E eu trabalho na <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
 
 Atualmente sou faxineiro de dados na Rocketseat e estudante de estatística na Universidade Federal de São Carlos (UFSCar). 
 
