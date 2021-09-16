@@ -7,7 +7,7 @@ E foco meus esforços com analises de mercado, implementações de automações 
 
 Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesses para aumentar a captação de leads da área de marketing. 
 
-<div>
+<div align="center" />
   <a href="https://github.com/mori-mkm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mori-mkm&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-mkm&layout=compact&langs_count=7&theme=material-palenight"/>
@@ -24,7 +24,7 @@ Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesse
   <img align="center" alt="Math-SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
   
-</div>
+<div align="center" />
   
   ##
 
