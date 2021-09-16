@@ -1,7 +1,7 @@
 ## Olá! Bão? Eu sou o Matheus Mori 😄
 
-- 🔭 I’m currently working on Rocketseat.
-- 🌱 I’m currently learning machine learning and statistical.
+- 🔭 Estou trabalhando na Rocketseat.
+- 🌱 Estou estudando: Machine learning, estatística e NLP.
 
 <div>
   <a href="https://github.com/mori-mkm">
