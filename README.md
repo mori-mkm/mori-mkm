@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://github.com/mori-mkm/mori-mkm/blob/main/wave.gif" width="30px">! Bão? Eu sou o  Matheus Mori</h1>
 <h3 align="center">E eu trabalho na <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
 
-Atualmente sou faxineiro de dados na Rocketseat e estudante de estatística na Universidade Federal de São Carlos (UFSCar). 
+Atualmente sou faxineiro de dados na area de Marketing e estudante de estatística na Universidade Federal de São Carlos (UFSCar). 
 
 E foco meus esforços com analises de mercado, implementações de automações e modelos de Machine learning com Python e MongoDB.  
 
