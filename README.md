@@ -13,7 +13,7 @@ Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesse
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-mkm&layout=compact&langs_count=7&theme=material-palenight"/>
   <br><br><br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=mori-mkm&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=mori-mkm&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" height=50% width=83%/>
 </a>
 
 <div align="center" />
