@@ -1,5 +1,8 @@
 <h1 align="center">Olá <img src="https://github.com/mori-mkm/mori-mkm/blob/main/wave.gif" width="30px">! Bão? Eu sou o  Matheus Mori</h1>
-<h3 align="center">E eu trabalho na <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
+<div align="center" />
+  <a href = "mailto:matheus.mori@rocketseat.team"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-mori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 Atualmente sou faxineiro de dados na area de Marketing e estudante de estatística na Universidade Federal de São Carlos (UFSCar). 
 
@@ -7,13 +10,17 @@ E foco meus esforços com analises de mercado, implementações de automações 
 
 Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesses para aumentar a captação de leads da área de marketing. 
 
+<h3 align="center">E eu trabalho na <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
+
+
 <div align="center" />
   <a href="https://github.com/mori-mkm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mori-mkm&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-mkm&layout=compact&langs_count=7&theme=material-palenight"/>
   <br><br><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=mori-mkm&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" height=50% width=83%/>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mori-mkm&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </a>
 
 <div align="center" />
@@ -31,13 +38,3 @@ Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesse
   
 <div align="center" />
   
-  ##
-
-### Entre em contato:
-<div> 
-
-</a> 
-  <a href = "mailto:matheus.mori@rocketseat.team"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-mori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
