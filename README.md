@@ -3,6 +3,7 @@
   <a href = "mailto:matheus.mori@rocketseat.team"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<img align="center" alt="Gif" src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif"> 
 
 Atualmente sou faxineiro de dados na area de Marketing e estudante de estatística na Universidade Federal de São Carlos (UFSCar). 
 
@@ -37,4 +38,3 @@ Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesse
   
 <div align="center" />
   
-<img align="center" alt="Gif" src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif"> 
