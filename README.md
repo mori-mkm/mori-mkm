@@ -11,8 +11,6 @@ E foco meus esforços com analises de mercado, implementações de automações 
 
 Utilizando fonte de dados como Google Analytics, Google Ads e Facebook Businesses para aumentar a captação de leads da área de marketing. 
 
-<h3 align="center">E eu trabalho na <a href="https://contmatic.com.br" target="blank">Contamtic Phoenix 🚀</a>.</h3>
-
 
 <div align="center" />
   <a href="https://github.com/mori-mkm">
