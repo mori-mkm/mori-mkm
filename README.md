@@ -1,155 +1,111 @@
-<h1 align="center">Hi, I'm Matheus Mori 👋</h1>
-
-<h3 align="center">
-AI Engineering • Data Science • Business Analytics
-</h3>
-
-<p align="center">
-Statistician building data and AI products that connect models, software and business decisions.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-mori/">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Mori-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-I'm a **Statistician and Data Professional** with experience working across **Data Science, Business Intelligence, Machine Learning and Analytics**.
+I'm a **Statistician and Data Professional** working at the intersection of **AI Engineering, Data Science and Business Analytics**.
 
-My work focuses on translating business problems into **data products, analytical systems and automation** — from data pipelines and predictive models to dashboards and decision-support tools.
+My background is in building analytical solutions, predictive models, data pipelines and decision-support systems. I'm now expanding this experience toward **production-oriented AI applications**, especially systems that combine LLMs, tools, data and specialized agents to solve complex business workflows.
 
-I'm currently expanding my work toward **AI Engineering**, with a particular interest in building production-oriented AI applications involving:
+My current interests include:
 
-- LLM-powered applications
-- RAG and agentic systems
-- AI evaluation and observability
-- Structured generation and workflow automation
-- APIs and production AI architectures
+* **Multi-agent systems and agent orchestration**
+* Retrieval-Augmented Generation (RAG)
+* Tool-using AI agents
+* LLM evaluation and observability
+* Structured outputs and workflow automation
+* AI system design
+* APIs and production-oriented AI architectures
 
-I especially enjoy projects where **technology, statistics and business strategy intersect**.
+I especially enjoy problems where multiple AI components need to **reason over business context, access external tools, collaborate through specialized roles and produce measurable outcomes**.
 
 ---
 
 ## 🧠 What I Work On
 
-**AI Engineering**
-> LLM applications · AI agents · RAG · structured outputs · evaluation · automation
+### 🤖 AI Engineering
 
-**Data Science**
-> Machine Learning · predictive modeling · experimentation · time series · anomaly detection
+> Multi-agent systems · agent orchestration · RAG · tool use · structured outputs · LLM applications · evals · observability
 
-**Business Analytics**
-> Decision intelligence · KPI design · business modeling · BI · data storytelling
+I'm particularly interested in designing **agentic architectures where different agents have specialized responsibilities**, rather than relying on a single general-purpose LLM.
 
-**Data Engineering**
-> ETL · data pipelines · data quality · analytical layers · data modeling
+Examples include systems with agents responsible for:
 
----
+* retrieving and grounding information;
+* analyzing business context;
+* selecting strategies or actions;
+* evaluating outputs from other agents;
+* interacting with tools and external data sources;
+* coordinating multi-step workflows.
 
-## 🛠️ Tech Stack
+The goal is not simply to make LLMs generate text, but to build **AI systems capable of executing reliable business processes**.
 
-### Data & Machine Learning
+### 📊 Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+> Machine Learning · predictive modeling · experimentation · time series · anomaly detection · statistical modeling
 
-### Data Platforms & Analytics
+### 💼 Business Analytics
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+> Decision intelligence · KPI design · business modeling · BI · experimentation · data storytelling
 
-### Engineering
+### ⚙️ Data Engineering
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+> ETL · analytical pipelines · data quality · data modeling · Bronze/Silver/Gold architectures
 
 ---
 
-## 🚀 Selected Projects
+## 🧩 Agentic AI Systems
 
-### 🏦 [Procurement Intelligence Platform](https://github.com/mori-mkm/procurement-intelligence)
+One of my main areas of study and development is **Multi-Agent AI**.
 
-End-to-end **Data Engineering + Machine Learning platform** for procurement intelligence using Brazilian public procurement data as a business proxy.
+I'm exploring architectures where complex workflows are decomposed into specialized agents that collaborate through explicit responsibilities, shared context and evaluation mechanisms.
 
-**Highlights**
-- ~5.8M processed procurement transactions
-- Bronze → Silver → Gold data architecture
-- Price prediction with LightGBM
-- Anomaly detection and savings opportunity engine
-- Temporal ML validation
-- Interactive Streamlit application
-- 100+ automated tests
+```text
+User / Business Problem
+          │
+          ▼
+    Orchestrator Agent
+          │
+    ┌─────┼──────────────┐
+    ▼     ▼              ▼
+Research  Analysis     Strategy
+ Agent     Agent        Agent
+    │        │             │
+    └────────┼─────────────┘
+             ▼
+       Evaluation Agent
+             │
+             ▼
+       Final Decision
+```
 
-`Python` `DuckDB` `LightGBM` `Pandas` `Streamlit` `Pytest`
+Topics I'm currently exploring:
 
----
+`Agent Orchestration` • `Tool Calling` • `Agent Memory` • `RAG` • `Multi-Agent Collaboration` • `Human-in-the-Loop` • `Evals` • `Observability`
 
-### 🤖 [Application Job](https://github.com/mori-mkm/application-job)
-
-LLM-powered workflow designed to automate personalized job applications while keeping professional experience grounded in a structured evidence base.
-
-**Highlights**
-- LLM-driven resume generation
-- Structured outputs with JSON Schema
-- Automated DOCX generation
-- Application tracking
-- Evidence-based generation to reduce hallucinations
-- Local workflow orchestration
-
-`Python` `LLM` `JSON Schema` `python-docx` `openpyxl`
-
----
-
-### 📊 [HR Predict](https://github.com/mori-mkm/HR-Predict)
-
-Machine Learning project for employee turnover prediction and workforce analytics.
-
-**Highlights**
-- Employee attrition classification
-- Class imbalance treatment with SMOTE
-- Decision threshold optimization
-- Cross-validation
-- Business-oriented model interpretation
-
-`Python` `Scikit-learn` `Pandas` `Machine Learning`
-
----
-
-### 🏭 [Steel Indicator](https://github.com/mori-mkm/steel-indicator)
-
-Work in progress focused on building **data-driven market intelligence for the Brazilian steel industry**, combining economic indicators, market data and statistical methodologies.
-
-`Python` `Statistics` `Economic Data` `Market Intelligence`
+I'm especially interested in applying these architectures to **sales intelligence, decision support, analytics automation and knowledge-intensive business workflows**.
 
 ---
 
 ## 🔭 Current Focus
 
-I'm currently deepening my skills in **AI Engineering and production AI systems**, especially around:
+I'm currently deepening my skills in **AI Engineering and Agentic AI Systems**, with a strong focus on moving from isolated ML/LLM experiments toward reliable end-to-end AI applications.
 
-`LLMs` • `RAG` • `AI Agents` • `Evals` • `Observability` • `APIs` • `AI System Design`
+My current learning and project roadmap focuses on:
 
-My goal is to bridge the gap between **data science experimentation and reliable AI products used by real businesses**.
+**Multi-Agent Systems**
+→ specialized agents, orchestration and task decomposition
 
----
+**RAG & Knowledge Systems**
+→ retrieval, grounding and contextual reasoning
 
-## 🤝 Let's Connect
+**AI Agents & Tool Use**
+→ APIs, databases, search and external systems
 
-I'm interested in **AI Engineering, Applied AI, Data Science and data-driven product development**.
+**Evals & Observability**
+→ measuring quality, failures, hallucinations and agent behavior
 
-Feel free to connect with me:
+**AI System Design**
+→ architecture, reliability, state management and scalability
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Mori-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mori/)
+**Production Engineering**
+→ APIs, testing, containers and deployment
+
+My long-term goal is to work on systems where **Machine Learning, LLMs, software engineering and business strategy converge into real AI products**.
